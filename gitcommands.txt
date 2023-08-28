@@ -1,0 +1,23 @@
+git init 
+git add
+git config --global user.email "bindu96927@gmil.com"
+git config --global user "bindushree"
+git commit -m "msg"
+git remote -v
+git remote add alias_name url
+git push alias_name master
+git log
+git log --oneline
+git clone url
+git branch
+git git branch branch name 
+git checkout branch name
+git reset -hard HEAD-1
+git reset -soft HEAD-1
+git reset branch name 
+git switch branch name 
+git tag
+git diff
+git tag help
+git merge branch-name
+vi.gitignore
